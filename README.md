@@ -9,4 +9,4 @@ and chromeos if theres projects you think may be evading me or if you want to un
 I have spent quite a bit of time that i can easily catch people up on but also an refining my overall traditional knowleghe of the codes that realate for example
 i wouldnt be suprised if the first linux kernel i actually upstreamed was say a chromeos update that hasnt been upstreamed but for now i guees it cant be done ;).
 
-Email:chuckflaska89@gmail.comf
+Email:chuckflaska89@gmail.com
